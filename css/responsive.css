@@ -1,0 +1,263 @@
+@media (min-width: 1680px) {
+	.custom-container{
+		padding:0;
+	}
+}
+@media (max-width: 1440px) {
+	.custom-container {
+    max-width: 1240px;
+}
+	.nav-menu a{
+		font-size:18px;
+	}
+	#header #logo {
+    /* padding-left: 40px; */
+    max-width: 164px;
+}
+
+
+.more-details-btn span{
+	right: -32px;
+}
+.f-62 {
+    font-size: 46px;
+}
+.header-text h2 {
+    font-size: 62px;
+    color: #313131;
+    line-height: 74px;
+}
+.bottm-line{
+	margin-top: 58px;
+}
+.bottm-line1{
+	    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.dg-wrapper {
+    max-width: 411px;
+}
+.qoute2 {
+    max-width: 195px;
+    position: absolute;
+    /* top: 0; */
+    right: 0;
+    bottom: 15px;
+}
+.qoute1 {
+    max-width: 195px;
+}
+.qoute1 {
+    position: absolute;
+    top: -5px;
+    left: -73px;
+}
+}
+@media (max-width: 1370px) {
+
+}
+@media (max-width: 1024px) {
+.head-img {
+    float: right;
+    max-width: 533px;
+}
+.header-text h2 {
+    font-size: 48px;
+}
+.header-text{
+	max-width: 437px;
+}
+#providers,#broker{
+	    padding-bottom: 80px;
+    padding-top: 80px;
+}
+.dg-wrapper {
+    max-width: 275px;
+}
+.team-slide .bxslider li{
+	max-width:400px;
+}
+.team-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+}
+@media (max-width: 768px) {
+
+.custom-container {
+	    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.mbl-slide {
+    text-align: center;
+    margin-top: 35px;
+}
+.broker-video {
+    margin: 0 auto;
+}
+.more-details-btn span {
+    right: -24px;
+}
+.team-slide .bxslider li {
+        max-width: max-content;
+}
+#mobile-nav-toggle{
+	margin: 9px 20px 0 0;
+}
+.dg-container{
+	    height: 334px;
+}
+header#header{
+	padding: 18px 0px;
+}
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+
+}
+@media screen and (max-width: 767px){
+.m-tm1 {
+    display: none;
+}
+.m-tm {
+    display: block !important;
+}
+.team-left{
+	position:relative;
+}
+.cus-tem-click {
+    height: 600px;
+}
+
+.cus-tem-click ul li:nth-child(1){
+	position: absolute;
+    top: 43%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+.cus-tem-click ul li:nth-child(2){
+	position: absolute;
+	right: 6px;
+    bottom: 19%;
+
+}
+.cus-tem-click ul li:nth-child(3){
+	position:absolute;
+	right: 35%;
+    top: 13%;
+}
+
+.cus-tem-click ul li:nth-child(4){
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.cus-tem-click ul li:nth-child(5){
+    position: absolute;
+    left: 12%;
+    bottom: 33%;
+}
+}
+@media (max-width: 480px) {
+	.header-text h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.head-bg{
+	padding-top: 136px;
+}
+.header-text {
+    max-width: 331px;
+    margin: 0 auto;
+}
+.more-details-btn span {
+    width: 50px;
+    height: 50px;
+}
+.more-details-btn span {
+    right: 0;
+}
+.team-slide .bxslider li {
+    margin-left: -40px;
+}
+	.play-buttn {
+    max-width: 80px;
+	}
+
+.head-img img{
+	    height: 338px;
+}
+.mid-marg {
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+.dg-wrapper a img {
+    display: block;
+    width: 100px;
+}
+.dg-wrapper {
+    max-width: 112px;
+}
+.dg-container {
+    height: 197px;
+}
+.col-md-3.f-info {
+    padding-left: 0;
+}
+.f-logo {
+    margin-bottom: 2rem;
+}
+.footer-sect {
+	display: flex;
+    height: 130px;
+    justify-content: center;
+}
+footer {
+    padding: 2rem 0rem;
+    text-align: center;
+}
+.cus-tem-click ul li img{
+	width:120px !important;
+}
+.cus-tem-click ul li:nth-child(3){
+	top: 0;
+}
+.cus-tem-click ul li:nth-child(1){
+	top:23%;
+}
+.cus-tem-click ul li:nth-child(5) {
+    position: absolute;
+    left: 0;
+    bottom: 35%;
+}
+.cus-tem-click ul li:nth-child(2) {
+    position: absolute;
+    right: 0;
+    bottom: 35%;
+}
+.cus-tem-click ul li:nth-child(3) {
+    position: absolute;
+    right: 0;
+}
+.cus-tem-click {
+    height: 390px;
+}
+.brinfo h5 {
+    font-size: 22px;
+}
+.ifram-video-container {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 36%;
+    width: 90%;
+}
+}
+@media (max-width: 375px) {
+	.footer-sect div{
+		font-size:12px;
+	}
+}
